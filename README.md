@@ -22,11 +22,11 @@ My core focus spans:
 
 <div align="center">
 
-| Repository | Research Domain | Key Methodologies | Status |
-| :--- | :--- | :--- | :---: |
-| 🚀 [`gnn-drug-repurposing-spaceflight-atrophy`](https://github.com/Nikassh/gnn-drug-repurposing-spaceflight-atrophy) | Space Life Sciences & Bio-AI | Heterogeneous GraphSAGE, NASA GeneLab DEG Consensus, Ensembl Orthologs | `Publication-Ready` |
-| 🦠 [`Coupled-Epidemic-ODE-Solver`](https://github.com/Nikassh/Coupled-Epidemic-ODE-Solver) | Multiscale Mathematical Biology | Stiff ODEs (Radau), Next-Gen Matrix $R_0$, 134-State SEPIAQRV | `Publication-Ready` |
-| 💧 [`legionella-biofilm-msx-model`](https://github.com/Nikassh/legionella-biofilm-msx-model) | Environmental Systems Engineering | WNTR / EPANET-MSX, Biofilm Detachment, Sobol Global Sensitivity | `Publication-Ready` |
+| Repository | Research Domain | Key Methodologies |
+| :--- | :--- | :--- |
+| 🚀 [`gnn-drug-repurposing-spaceflight-atrophy`](https://github.com/Nikassh/gnn-drug-repurposing-spaceflight-atrophy) | Space Life Sciences & Bio-AI | Heterogeneous GraphSAGE, NASA GeneLab DEG Consensus, Ensembl Orthologs |
+| 🦠 [`Coupled-Epidemic-ODE-Solver`](https://github.com/Nikassh/Coupled-Epidemic-ODE-Solver) | Multiscale Mathematical Biology | Stiff ODEs (Radau), Next-Gen Matrix $R_0$, 134-State SEPIAQRV |
+| 💧 [`legionella-biofilm-msx-model`](https://github.com/Nikassh/legionella-biofilm-msx-model) | Environmental Systems Engineering | WNTR / EPANET-MSX, Biofilm Detachment, Sobol Global Sensitivity |
 
 </div>
 
